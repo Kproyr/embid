@@ -16,7 +16,7 @@ export default {
   name: 'App',
   data() {
     return {
-      iframeSrc: "https://hawks-corp.net/hawks-riccio/HR3RH2530H25EH405JDG48559/////////////////////////////////////////75.html", // Initial source
+      iframeSrc: "https://embeds.beehiiv.com/1146549a-628d-45e0-b3b6-a8d0ed4f78f5", // Initial source
     };
   },
 };
